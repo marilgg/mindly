@@ -75,3 +75,22 @@ header p{
 #boton:hover{
     background:#5b21b6;
 }
+nav{
+    background:white;
+    display:flex;
+    justify-content:center;
+    gap:35px;
+    padding:18px;
+    box-shadow:0 2px 8px rgba(0,0,0,.1);
+}
+
+nav a{
+    text-decoration:none;
+    color:#6d28d9;
+    font-weight:bold;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#4c1d95;
+}
