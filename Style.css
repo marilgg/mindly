@@ -94,3 +94,10 @@ nav a{
 nav a:hover{
     color:#4c1d95;
 }
+footer{
+    margin-top:60px;
+    background:#6d28d9;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
